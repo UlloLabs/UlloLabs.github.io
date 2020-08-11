@@ -21,7 +21,7 @@ To facilitate recordings of signals from Echo, we created a python script that c
 ## Repositories
 
 - [LSL2Logs](https://github.com/UlloLabs/LSL2Logs): get data from LSL streams and write to (verbose) CSV files.
-- [liblsl](https://github.com/UlloLabs/liblsl/tree/dev-leak): we published a fork of the LSL library that can drastically decrease CPU utilization, especially on machine with limited ressources and streams with low sampling rate (below 100hz). See discussions on https://github.com/sccn/liblsl/pull/70 and https://github.com/sccn/liblsl/pull/71
+- [liblsl](https://github.com/UlloLabs/liblsl/tree/dev-leak): we published a fork of the LSL library that can drastically decrease CPU utilization, especially on machine with limited ressources and streams with low sampling rate (below 100hz). See discussions on [https://github.com/sccn/liblsl/pull/70](https://github.com/sccn/liblsl/pull/70) and [https://github.com/sccn/liblsl/pull/71](https://github.com/sccn/liblsl/pull/71).
 
 ## Related work
 
