@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This landing page lists the public repositories published by Ullo alongside our products ([http://ullo-world.fr/](http://ullo-world.fr/)) and our research lab ([https://labs.ullo.fr/](https://labs.ullo.fr/)).
+This landing page lists the public repositories published by Ullo alongside our products ([http://ullo.fr/](http://ullo.fr/)) and our research lab ([https://labs.ullo.fr/](https://labs.ullo.fr/)).
 
 For code-related enquiries, you can get in touch with us using the issue tracker of the corresponding repository, or you can send an e-mail to `support at ullo dot fr`.
 
